@@ -14,7 +14,7 @@ Blue Hack 02~03/12/2017
 
 # Description
 
-Sistema de predição de risco de natalidade e integração de dados públicos CESA.
+Sistema de predição de risco de mortalidade infantil sem ID e integração de dados públicos SESA.
 
 
 # Competences
